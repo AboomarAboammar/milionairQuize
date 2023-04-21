@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/milionairQuize/static/css/main.847a5a88.css",
+    "main.js": "/milionairQuize/static/js/main.d17b7ff6.js",
+    "static/js/845.7c58c3be.chunk.js": "/milionairQuize/static/js/845.7c58c3be.chunk.js",
+    "static/media/play.mp3": "/milionairQuize/static/media/play.289a8c3c75b9ae770319.mp3",
+    "static/media/correct.mp3": "/milionairQuize/static/media/correct.985c7fb088517d049f35.mp3",
+    "static/media/img.jpg": "/milionairQuize/static/media/img.036f5ab64b77ecc0ae61.jpg",
+    "static/media/wrong.mp3": "/milionairQuize/static/media/wrong.493cc9f458f4882b9951.mp3",
+    "index.html": "/milionairQuize/index.html",
+    "main.847a5a88.css.map": "/milionairQuize/static/css/main.847a5a88.css.map",
+    "main.d17b7ff6.js.map": "/milionairQuize/static/js/main.d17b7ff6.js.map",
+    "845.7c58c3be.chunk.js.map": "/milionairQuize/static/js/845.7c58c3be.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.847a5a88.css",
+    "static/js/main.d17b7ff6.js"
+  ]
+}
